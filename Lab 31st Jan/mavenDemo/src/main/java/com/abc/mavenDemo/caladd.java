@@ -16,6 +16,9 @@ public class caladd {
 
         do {
 
+
+            System.out.println("\n\n\n --------------- \n\n\n");
+        	
             System.out.println("1. Add two numbers \n");
 
             System.out.println("2. Multiply 2 numbers two numbers \n");
@@ -61,8 +64,7 @@ public class caladd {
                            break;
             }
 
-            System.out.println("\n --------------- \n");
-            System.out.println("this line is added by team2");
+            System.out.println("\n\n\n --------------- \n\n\n");
 
 
 
