@@ -19,7 +19,6 @@ public class caladd {
 
             System.out.println("\n\n\n --------------- \n\n\n");
         	
-
         	
             System.out.println("1. Add two numbers \n");
 
